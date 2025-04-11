@@ -1,7 +1,7 @@
-<!-- Profile README for PeeranaStyle -->
+<!-- Profile README for PeeranathakronSuilar -->
 
 <p align="center">
-  <img src="name.gif" alt="Hi! I'm PeeranaStyle" />
+  <img src="name.gif" alt="Hi! I'm PeeranathakronSuilar" />
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
       ผมนายพีรณฐกร สุ่ยหล้า อายุ 18 ปี เรียนอยู่ ม.6 ที่โรงเรียนธาตุนารายณ์วิทยา สนใจด้านเทคโนโลยีและคอมพิวเตอร์ ผมมีทักษะในด้านการพัฒนาเว็บแอปพลิเคชัน, การเขียนโปรแกรม, การออกแบบ UI/UX, การทำงานกับฐานข้อมูล และ Cybersecurity รวมๆก็ Full-Stack Developer ผมสามารถอ่านและทำความเข้าใจกับภาษาคอมพิวเตอร์ได้ทุกภาษา แม้จะไม่เคยใช้มาก่อน ยกเว้นภาษาระดับต่ำ (Low-level) 
     </td>
     <td align="center" width="30%">
-      <img src="mypic.png" alt="PeeranaStyle's Photo" width="150" style="border-radius: 12px;" />
+      <img src="mypic.png" alt="PeeranathakronSuilar's Photo" width="150" style="border-radius: 12px;" />
     </td>
   </tr>
 </table>
@@ -64,10 +64,10 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=PeeranaStyle&show_icons=true&hide_border=true&theme=github_dark" width="420" />
+        <img src="https://github-readme-stats.vercel.app/api?username=PeeranathakronSuilar&show_icons=true&hide_border=true&theme=github_dark" width="420" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=PeeranaStyle&hide_border=true&theme=github-dark" width="420" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=PeeranathakronSuilar&hide_border=true&theme=github-dark" width="420" />
       </td>
     </tr>
   </table>
@@ -82,7 +82,7 @@
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/PeeranaStyle" target="_blank">
+  <a href="https://github.com/PeeranathakronSuilar" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;&nbsp;&nbsp;
